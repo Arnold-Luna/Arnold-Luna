@@ -18,7 +18,7 @@ Everything here is built to be **repeatable**, **documented**, and **reviewable*
 
 ---
 
-## 📂 What’s Inside (and why it matters)
+## 📂 What’s Inside 
 
 ### Incident Response
 - IR notes, triage workflows, evidence handling, and documented investigations  
@@ -42,11 +42,11 @@ Everything here is built to be **repeatable**, **documented**, and **reviewable*
 
 ### Vulnerability Management
 - Finding → risk rating → remediation → verification  
-- Focus: prioritize what actually reduces risk (not “patch everything and pray”)
+- Focus: prioritize what actually reduces risk
 
 ---
 
-## 🧪 Project Format (standardized)
+## 🧪 Project Format 
 Most folders follow a structure like:
 - **README.md** (overview + objective)
 - **steps/** (exact commands + procedure)
@@ -67,7 +67,7 @@ If a project doesn’t have all of these yet, it will. Humans love consistency. 
 
 ---
 
-## 📈 Highlights (put your best 3–6 here)
+## 📈 Highlights
 > Replace these with your strongest projects as you go.
 
 - **Email Authentication Assessment (SPF/DKIM/DMARC)**  
@@ -84,7 +84,6 @@ If a project doesn’t have all of these yet, it will. Humans love consistency. 
 ## ✅ Certifications (optional section)
 - CompTIA Security+  
 - CompTIA Cloud+  
-(Add more if you want, but projects should stay the star of the show.)
 
 ---
 
