@@ -86,8 +86,9 @@ Most folders follow a structure like:
 ---
 
 ## 📬 Contact
-- GitHub: https://github.com/Arnold-Luna  
-- LinkedIn: https://www.linkedin.com/in/arnoldo-luna/
+- <a href="https://www.linkedin.com/in/arnoldo-luna/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
 
 ---
 
