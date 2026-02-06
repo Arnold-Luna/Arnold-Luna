@@ -5,14 +5,24 @@ Everything here is built to be **repeatable**, **documented**, and **reviewable*
 
 ---
 
-## 🧭 Quick Navigation
+📌 Incident Response:  
+[Incident Response](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Incident%20Response)
 
-- 📌 **Incident Response**: [Incident Response](./Incident%20Response/)
-- ☁️ **Cloud Security / AWS**: [cloud-projects](./cloud-projects/)
-- 🖥️ **Endpoint Security**: [endpoint-security](./endpoint-security/)
-- 🌐 **Network Defense**: [network-defense](./network-defense/)
-- 🧠 **Threat Analysis**: [threat-analysis](./threat-analysis/)
-- 🛡️ **Vulnerability Management**: [vulnerability-management](./vulnerability-management/)
+☁️ Cloud Security / AWS:  
+[cloud-projects](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/cloud-projects)
+
+🖥️ Endpoint Security:  
+[endpoint-security](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/endpoint-security)
+
+🌐 Network Defense:  
+[network-defense](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/network-defense)
+
+🧠 Threat Analysis:  
+[threat-analysis](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/threat-analysis)
+
+🛡️ Vulnerability Management:  
+[vulnerability-management](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/vulnerability-management)
+
 
 ---
 
