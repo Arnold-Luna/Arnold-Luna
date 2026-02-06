@@ -78,15 +78,17 @@ Most folders follow a structure like:
 ---
 
 ## ✅ Certifications
-- CompTIA Security+  https://www.credly.com/badges/1799b438-c246-4e19-a714-6b1f6811874c/public_url
-- CompTIA Cloud+  https://www.credly.com/badges/1799b438-c246-4e19-a714-6b1f6811874c/public_url
-- CompTIA Secure Cloud Professional https://www.credly.com/badges/e098d92f-cacf-4c34-85d2-6241e9291641/public_url
-- Google Project Management Professional Certificate https://www.credly.com/badges/a1511b5e-30c4-45ab-90ce-938cdf70d4bb/public_url
+## 🧾 Certifications
+
+- **[CompTIA Security+](https://www.credly.com/badges/1799b438-c246-4e19-a714-6b1f6811874c/public_url)**
+- **[CompTIA Cloud+](https://www.credly.com/badges/1799b438-c246-4e19-a714-6b1f6811874c/public_url)**
+- **[CompTIA Secure Cloud Professional (CSCP)](https://www.credly.com/badges/e098d92f-cacf-4c34-85d2-6241e9291641/public_url)**
+- **[Google Project Management Professional Certificate](https://www.credly.com/badges/a1511b5e-30c4-45ab-90ce-938cdf70d4bb/public_url)**
 
 ---
 
 ## 📬 Contact
-- <a href="https://www.linkedin.com/in/arnoldo-luna/">
+<a href="https://www.linkedin.com/in/arnoldo-luna/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
