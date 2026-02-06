@@ -6,24 +6,14 @@ Everything here is built to be **repeatable**, **documented**, and **reviewable*
 
 ---
 
-📌 Incident Response:  
-[Incident Response](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Incident%20Response)
+## 🧭 Quick Navigation
 
-☁️ Cloud Security / AWS:  
-[cloud-projects](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/cloud-projects)
-
-🖥️ Endpoint Security:  
-[endpoint-security](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/endpoint-security)
-
-🌐 Network Defense:  
-[network-defense](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/network-defense)
-
-🧠 Threat Analysis:  
-[threat-analysis](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/threat-analysis)
-
-🛡️ Vulnerability Management:  
-[vulnerability-management](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/vulnerability-management)
-
+📌 **[Incident Response](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Incident%20Response)**  
+☁️ **[Cloud Security / AWS](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/cloud-projects)**  
+🖥️ **[Endpoint Security](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/endpoint-security)**  
+🌐 **[Network Defense](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/network-defense)**  
+🧠 **[Threat Analysis](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/threat-analysis)**  
+🛡️ **[Vulnerability Management](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/vulnerability-management)**
 
 ---
 
