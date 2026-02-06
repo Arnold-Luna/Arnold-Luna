@@ -88,8 +88,10 @@ Most folders follow a structure like:
 ---
 
 ## ✅ Certifications
-- CompTIA Security+  
-- CompTIA Cloud+  
+- CompTIA Security+  https://www.credly.com/badges/1799b438-c246-4e19-a714-6b1f6811874c/public_url
+- CompTIA Cloud+  https://www.credly.com/badges/1799b438-c246-4e19-a714-6b1f6811874c/public_url
+- CompTIA Secure Cloud Professional https://www.credly.com/badges/e098d92f-cacf-4c34-85d2-6241e9291641/public_url
+- Google Project Management Professional Certificate https://www.credly.com/badges/a1511b5e-30c4-45ab-90ce-938cdf70d4bb/public_url
 
 ---
 
