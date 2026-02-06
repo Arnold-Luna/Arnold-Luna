@@ -61,8 +61,6 @@ Most folders follow a structure like:
 - **findings/** (screenshots + outputs)
 - **notes/** (why it matters + lessons learned)
 
-If a project doesn’t have all of these yet, it will. Humans love consistency. Sadly.
-
 ---
 
 ## 🛠️ Tools & Skills Demonstrated
@@ -89,7 +87,7 @@ If a project doesn’t have all of these yet, it will. Humans love consistency. 
 
 ---
 
-## ✅ Certifications (optional section)
+## ✅ Certifications
 - CompTIA Security+  
 - CompTIA Cloud+  
 
@@ -97,7 +95,7 @@ If a project doesn’t have all of these yet, it will. Humans love consistency. 
 
 ## 📬 Contact
 - GitHub: https://github.com/Arnold-Luna  
-- LinkedIn: (add your LinkedIn URL here)
+- LinkedIn: https://www.linkedin.com/in/arnoldo-luna/
 
 ---
 
