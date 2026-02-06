@@ -3,8 +3,6 @@
 Hands-on cybersecurity + cloud security labs focused on **SOC workflows, incident response, threat detection, vulnerability management, and system hardening**.  
 Everything here is built to be **repeatable**, **documented**, and **reviewable** (screenshots, configs, commands, findings).
 
-> Goal: Prove skill with evidence, not vibes.
-
 ---
 
 ## 🧭 Quick Navigation
