@@ -8,7 +8,7 @@ Everything here is built to be **repeatable**, **documented**, and **reviewable*
 
 ## 🧭 Quick Navigation
 
-🧠 [Enterprise SIEM Lab – Wazuh + Suricata + Kali Linux + Fail2Ban](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Enterprise%20SIEM%20Lab%20%E2%80%93%20Wazuh%20%2B%20Suricata%20%2B%20Kali%20Linux%20%2B%20Fail2Ban)  
+🧠 **[Enterprise SIEM Lab](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Enterprise%20SIEM%20Lab%20%E2%80%93%20Wazuh%20%2B%20Suricata%20%2B%20Kali%20Linux%20%2B%20Fail2Ban)**  
 📌 **[Incident Response](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Incident%20Response)**  
 ☁️ **[Cloud Security / AWS](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/cloud-projects)**  
 🖥️ **[Endpoint Security](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/endpoint-security)**  
@@ -21,6 +21,7 @@ Everything here is built to be **repeatable**, **documented**, and **reviewable*
 ## 📂 What’s Inside 
 
 ### Incident Response
+- **Enterprise SIEM Lab** – Simulated SSH brute-force attack using Hydra, analyzed authentication failures in Wazuh (Rule 5760), mapped activity to MITRE ATT&CK (T1110 – Brute Force), and implemented automated IP blocking with Fail2Ban  
 - IR notes, triage workflows, evidence handling, and documented investigations  
 - Artifacts: timelines, indicators, root cause, lessons learned
 
@@ -33,10 +34,12 @@ Everything here is built to be **repeatable**, **documented**, and **reviewable*
 - Focus: reduce attack surface + catch weird behavior early
 
 ### Network Defense
+- **Enterprise SIEM Lab** – Conducted Nmap reconnaissance, identified exposed SSH services, correlated brute-force attempts, and validated host-based defensive controls  
 - Scanning, segmentation concepts, firewall/ACL logic, traffic analysis  
 - Focus: enforce controls and validate them with testing
 
 ### Threat Analysis
+- **Enterprise SIEM Lab** – Investigated authentication failure spikes, reviewed Wazuh rule metadata, analyzed alert severity, and mapped attacker behavior to MITRE ATT&CK  
 - IOC analysis, attacker techniques, mapping to MITRE ATT&CK  
 - Focus: explain what happened in normal human language
 
@@ -56,9 +59,12 @@ Most folders follow a structure like:
 ---
 
 ## 🛠️ Tools & Skills Demonstrated
-- Incident response process, triage, basic forensics mindset
-- Log analysis / detection fundamentals
-- Network scanning & validation (e.g., Nmap)
+- SIEM deployment & detection engineering (Wazuh)
+- Log ingestion & alert correlation
+- MITRE ATT&CK mapping
+- SSH brute-force simulation (Hydra)
+- Network reconnaissance (Nmap)
+- Automated containment (Fail2Ban)
 - IAM, least privilege, cloud logging concepts
 - Vulnerability lifecycle: identify → assess → mitigate → verify
 - Documentation that someone else can reproduce
@@ -67,8 +73,8 @@ Most folders follow a structure like:
 
 ## 📈 Highlights
 
-- **Enterprise SIEM Lab – Wazuh + Suricata + Kali Linux + Fail2Ban
-  End-to-end attack simulation, detection, MITRE mapping, and automated containment.
+- **Enterprise SIEM Lab – Wazuh + Suricata + Kali + Fail2Ban**  
+  End-to-end attack simulation, detection engineering, MITRE ATT&CK mapping, and automated containment workflow.
 
 - **Email Authentication Assessment (SPF/DKIM/DMARC)**  
   Evidence-based review of email security posture with screenshots + recommendations.
