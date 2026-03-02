@@ -77,8 +77,7 @@ Most folders follow a structure like:
 
 ---
 
-## ✅ Certifications
-## 🧾 Certifications
+## 🏅 Certifications
 
 - **[CompTIA CYSA+](https://www.credly.com/badges/c019545c-ef1b-4d21-9e1d-06b64f526a68/public_url)**
 - **[CompTIA Security+](https://www.credly.com/badges/1799b438-c246-4e19-a714-6b1f6811874c/public_url)**
