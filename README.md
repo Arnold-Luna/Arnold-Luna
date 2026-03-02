@@ -8,7 +8,7 @@ Everything here is built to be **repeatable**, **documented**, and **reviewable*
 
 ## 🧭 Quick Navigation
 
-🧠 **[Enterprise SIEM Lab – Wazuh + Suricata + Kali Linux + Fail2Ban](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Enterprise%20SIEM%20Lab%20%E2%80%93%20Wazuh%20%2B%20Suricata%20%2B%20Kali%20Linux%20%2B%20Fail2Ban)  
+🧠 [Enterprise SIEM Lab – Wazuh + Suricata + Kali Linux + Fail2Ban](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Enterprise%20SIEM%20Lab%20%E2%80%93%20Wazuh%20%2B%20Suricata%20%2B%20Kali%20Linux%20%2B%20Fail2Ban)  
 📌 **[Incident Response](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Incident%20Response)**  
 ☁️ **[Cloud Security / AWS](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/cloud-projects)**  
 🖥️ **[Endpoint Security](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/endpoint-security)**  
