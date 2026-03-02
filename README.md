@@ -67,6 +67,9 @@ Most folders follow a structure like:
 
 ## 📈 Highlights
 
+- **Enterprise SIEM Lab – Wazuh + Suricata + Kali Linux + Fail2Ban
+  End-to-end attack simulation, detection, MITRE mapping, and automated containment.
+
 - **Email Authentication Assessment (SPF/DKIM/DMARC)**  
   Evidence-based review of email security posture with screenshots + recommendations.
 
