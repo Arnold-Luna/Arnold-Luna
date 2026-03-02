@@ -80,8 +80,10 @@ Most folders follow a structure like:
 ## ✅ Certifications
 ## 🧾 Certifications
 
+- **[CompTIA CYSA+](https://www.credly.com/badges/c019545c-ef1b-4d21-9e1d-06b64f526a68/public_url)**
 - **[CompTIA Security+](https://www.credly.com/badges/1799b438-c246-4e19-a714-6b1f6811874c/public_url)**
 - **[CompTIA Cloud+](https://www.credly.com/badges/1799b438-c246-4e19-a714-6b1f6811874c/public_url)**
+- **[CompTIA Security Analytics Professional (CSAP)](https://www.credly.com/badges/1d5ec92d-63af-4b97-a872-cdf958b3e31c/public_url)**
 - **[CompTIA Secure Cloud Professional (CSCP)](https://www.credly.com/badges/e098d92f-cacf-4c34-85d2-6241e9291641/public_url)**
 - **[Google Project Management Professional Certificate](https://www.credly.com/badges/a1511b5e-30c4-45ab-90ce-938cdf70d4bb/public_url)**
 
