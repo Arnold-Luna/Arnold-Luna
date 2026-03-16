@@ -78,7 +78,9 @@ Includes:
 
 ## 📬 Connect
 
-**[LinkedIn](https://www.linkedin.com/in/arnoldo-luna/)**
+<a href="https://www.linkedin.com/in/[YOUR-LINK](https://www.linkedin.com/in/arnoldo-luna/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt1ZvYMPOQFOUhEILGq2sLA%3D%3D)/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">
+</a>
 
 ---
 
