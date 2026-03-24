@@ -70,7 +70,13 @@ Includes:
 
 - **[CompTIA Security Analytics Professional (CSAP)](https://www.credly.com/badges/1d5ec92d-63af-4b97-a872-cdf958b3e31c/public_url)**  
 
-- **[CompTIA Secure Cloud Professional (CSCP)](https://www.credly.com/badges/e098d92f-cacf-4c34-85d2-6241e9291641/public_url)**  
+- **[CompTIA Secure Cloud Professional (CSCP)](https://www.credly.com/badges/e098d92f-cacf-4c34-85d2-6241e9291641/public_url)**
+
+- **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/3cbc624b-81e9-476d-8ef1-2067b025274d/public_url)**
+
+- **[Splunk Core Certified User](https://www.credly.com/badges/308f71b2-3701-406f-bca6-82d0401089a7/public_url)**
+
+- **[Google Cybersecurity Professional Certificate](https://www.credly.com/badges/ea0daffb-a80d-4e91-b7ad-4d7766305ea9/public_url)**
 
 - **[Google Project Management Professional Certificate](https://www.credly.com/badges/a1511b5e-30c4-45ab-90ce-938cdf70d4bb/public_url)**  
 
@@ -78,8 +84,7 @@ Includes:
 
 ## 📬 Connect
 
-<a href="https://linkedin.com/in/arnoldo-luna">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"> https://linkedin.com/in/arnoldo-luna
 </a>
 
 ---
