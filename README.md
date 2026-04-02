@@ -37,25 +37,23 @@ Focused on building repeatable, documented, real-world simulations that demonstr
 
 Includes:
 
-🧠 **[Enterprise SIEM Lab](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Enterprise%20SIEM%20Lab%20%E2%80%93%20Wazuh%20%2B%20Suricata%20%2B%20Kali%20Linux%20%2B%20Fail2Ban)**  
-📌 **[Incident Response](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Incident%20Response)**  
-☁️ **[Cloud Security / AWS](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/cloud-projects)**  
-🖥️ **[Endpoint Security](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/endpoint-security)**  
-🌐 **[Network Defense](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/network-defense)**  
-🧠 **[Threat Analysis](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/threat-analysis)**  
-🛡️ **[Vulnerability Management](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/vulnerability-management)**
+- 🧠 **[Enterprise SIEM Lab](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Enterprise%20SIEM%20Lab%20-%20Wazuh%20%2B%20Suricata%20%2B%20Kali%20Linux%20%2B%20Fail2Ban)**
+- 🚨 **[Incident Response](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Incident%20Response)**
+- 🖥️ **[Windows 11 DISA STIG Remediation Lab](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/Windows%2011%20DISA%20STIG%20Remediation%20Lab)**
+- ☁️ **[Cloud Security / AWS](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/cloud-projects)**
+- 🖥️ **[Endpoint Security](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/endpoint-security)**
+- 🌐 **[Network Defense](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/network-defense)**
+- 🧠 **[Threat Analysis](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/threat-analysis)**
+- 🛡️ **[Vulnerability Management](https://github.com/Arnold-Luna/cybersecurity-projects/tree/main/vulnerability-management)**
 
 ---
 
 ## 🛠 Tools & Technologies
 
-- Wazuh SIEM  
-- Suricata IDS  
-- Kali Linux  
-- Hydra  
-- Nmap  
-- Fail2Ban  
-- AWS (IAM, CloudTrail, VPC)  
+- Wazuh SIEM - Splunk - Suricata IDS  - Kali Linux  - Hydra  - Nmap  - Fail2Ban  
+- DISA STIG / STIG Viewer - SCAP Compliance Checker - Windows Registry Hardening
+- PowerShell Automation - Windows 11 Endpoint Compliance
+- AWS (IAM, CloudTrail, VPC)
 - MITRE ATT&CK Framework  
 
 ---
